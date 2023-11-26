@@ -10,6 +10,8 @@ spring:
       server:
         git:
           uri: https://github.com/RupaliGuleria/microservice-config-gatewayimpl
+
           clone-on-start: true
 
 
+#Donot push This file to git . It is local to the system only
